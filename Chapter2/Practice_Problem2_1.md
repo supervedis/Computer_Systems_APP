@@ -1,4 +1,4 @@
-# Perform the following number conversions:  
+Perform the following number conversions:  
 
 **A. <code>0x39A7F8</code> to binary**  
 0011 1001 1010 0111 1111 1000
