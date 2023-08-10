@@ -18,7 +18,7 @@ colors listed below?
 |1   |1   |1   |white  |0   |0   |0   |Black   |
 
 B. Describe the effect of applying Boolean operations on
-the following colors:
-Blue | Green = Cyan
-Yellow & Cyan = Green
-Red ^ Magenta = Blue
+the following colors:  
+Blue | Green = Cyan  
+Yellow & Cyan = Green  
+Red ^ Magenta = Blue  
